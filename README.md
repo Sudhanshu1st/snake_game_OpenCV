@@ -69,9 +69,5 @@ Contributions are always welcome! If you find any bugs or have ideas for improve
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 **Note:** This project was created for educational purposes and as a fun coding exercise. And the code was inspired by Abhishek Sharma. Enjoy!
-```
-
-In this enhanced version of the README, I've included more detailed sections such as "Table of Contents," "Demo," and "Screenshots." Additionally, I've improved the descriptions in various sections to provide a better overview of the project. Remember to replace placeholders with actual content, screenshots, and video links.
